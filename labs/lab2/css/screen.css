@@ -52,6 +52,8 @@ label {
 }
 
 #submitbutton {
+  margin-top: 8px;
+  margin-bottom: 1px;
   border: 3px;
   border-style: outset;
   background-color: mediumaquamarine;
@@ -65,7 +67,8 @@ label {
   background-color: aquamarine;
   border-color: mediumaquamarine;
   color: navy;
-  margin-top: 10px;
+  margin-top: 8px;
+  margin-bottom: 1px;
 }
 
 /* Font rules */
