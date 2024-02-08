@@ -37,6 +37,8 @@ input {
   border: none;
   margin-top: 1px;
   margin-bottom: 1px;
+  color: navy;
+  font-weight: 475;
 }
 
 #submitbutton {
