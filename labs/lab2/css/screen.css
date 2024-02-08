@@ -6,7 +6,7 @@ body {
   background-color: whitesmoke;
 }
 
-#wrapper{
+#wrapper {
   width: 960px;
   position: relative;
   margin-left: auto;
@@ -15,11 +15,11 @@ body {
   margin-bottom: 30px;
   padding: 0px;
 }
-#main{
+#main {
   width: 750px;
 }
 
-#formdiv{
+#formdiv {
   display: block;
   text-align: center;
 }
@@ -27,4 +27,10 @@ body {
 form {
   display: inline-block;
   width: 600px;
+}
+
+/* Font rules */
+h1, label {
+  color: navy;
+  font-family: Verdana, sans-serif;
 }
