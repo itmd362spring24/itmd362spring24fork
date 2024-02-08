@@ -35,6 +35,8 @@ form {
 input {
   background-color: whitesmoke;
   border: none;
+  margin-top: 1px;
+  margin-bottom: 1px;
 }
 
 #submitbutton {
@@ -51,6 +53,7 @@ input {
   background-color: aquamarine;
   border-color: mediumaquamarine;
   color: navy;
+  margin-top: 10px;
 }
 
 /* Font rules */
