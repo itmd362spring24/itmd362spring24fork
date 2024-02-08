@@ -34,3 +34,9 @@ h1, label {
   color: navy;
   font-family: Verdana, sans-serif;
 }
+
+h1 {
+  font-weight: 550px;
+  font-size: 34px;
+  float: left;
+}
