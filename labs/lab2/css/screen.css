@@ -37,7 +37,15 @@ form {
   border-style: outset;
   background-color: mediumaquamarine;
   border-color: aquamarine;
-  color: ghostwhite;
+  color: navy;
+}
+
+#submitbutton:hover {
+  border: 3px;
+  border-style: inset;
+  background-color: aquamarine;
+  border-color: mediumaquamarine;
+  color: navy;
 }
 
 /* Font rules */
