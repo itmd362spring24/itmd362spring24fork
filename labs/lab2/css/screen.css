@@ -30,12 +30,16 @@ form {
   display: inline-block;
   width: 600px;
   background-color: aliceblue;
+  border-style: double;
+  border: 5px;
+  border-color: navy;
 }
 
 #submitbutton {
   border: 3px;
   border-style: outset;
   background-color: mediumaquamarine;
+  border-color: aquamarine;
 }
 
 /* Font rules */
