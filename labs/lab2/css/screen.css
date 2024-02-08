@@ -30,8 +30,7 @@ form {
   display: inline-block;
   width: 600px;
   background-color: aliceblue;
-  border-style: double;
-  border: 5px;
+  border-width: 5px;
   border-color: navy;
 }
 
