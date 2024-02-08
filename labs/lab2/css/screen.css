@@ -1,6 +1,6 @@
 #wrapper{
   width: 960px;
-  position: absolute;
+  position: relative;
   margin-left: auto;
   margin-right: autio;
   border: 1px solid black;
