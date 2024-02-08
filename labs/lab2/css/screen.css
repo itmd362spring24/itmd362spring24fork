@@ -41,6 +41,10 @@ input {
   font-weight: 475;
 }
 
+label {
+  border-right: 2px solid mediumaquamarine;
+}
+
 #submitbutton {
   border: 3px;
   border-style: outset;
