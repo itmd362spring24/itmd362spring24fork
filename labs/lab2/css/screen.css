@@ -32,6 +32,11 @@ form {
   background-color: lightsteelblue;
 }
 
+input {
+  background-color: whitesmoke;
+  border: none;
+}
+
 #submitbutton {
   border: 3px;
   border-style: outset;
