@@ -27,6 +27,7 @@ body {
 form {
   display: inline-block;
   width: 600px;
+  background-color: aliceblue;
 }
 
 /* Font rules */
