@@ -1,0 +1,11 @@
+#wrapper{
+  width: 750px;
+  position: absolute;
+  margin-left: auto;
+  margin-right: autio;
+  border: 1px solid black;
+  padding: 0px;
+}
+#main{
+  width: 960px;
+}
