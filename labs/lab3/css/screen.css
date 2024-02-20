@@ -203,7 +203,11 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
-
+/**h1 - big chunky font**/
+/**p (Sign up to....etcetc) - simple, readable font + enclosure technique(light grey background)**/
+/**establish similarity btwn label elements w font family**/
+/**put check box next to label to establish proximity**/
+/**consider sizing difference btwn label, p, and h1**/
 
 /* ===== STATE STYLES ======= */
 
