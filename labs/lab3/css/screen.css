@@ -209,7 +209,7 @@ h1 {
   padding: 0.33em;
   line-height: 115%;
 }
-/**p (Sign up to....etcetc) - simple, readable font + enclosure technique(light grey background)**/
+/**p (Sign up to....etcetc) - same font as h1 but smaller and a lighter grey color**/
 p {
   font-size: 1.1em; /**80% of html font size for site**/
   padding: 0.165em;
