@@ -204,10 +204,18 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 /**h1 - big chunky font**/
+h1 {
+  font-size: 2.75em; /**200% of html font size for site**/
+}
 /**p (Sign up to....etcetc) - simple, readable font + enclosure technique(light grey background)**/
+p {
+  font-size: 1.1em; /**80% of html font size for site**/
+}
 /**establish similarity btwn label elements w font family**/
+label {
+  font-size: 0.825em; /**60% of html font size for site**/
+}
 /**put check box next to label to establish proximity**/
-/**consider sizing difference btwn label, p, and h1**/
 
 /* ===== STATE STYLES ======= */
 
