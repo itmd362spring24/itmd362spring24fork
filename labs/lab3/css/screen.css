@@ -208,11 +208,13 @@ h1 {
   font-size: 2.75em; /**200% of html font size for site**/
   padding: 0.33em;
   line-height: 115%;
+  font-family: "Archivo Black", "Arial Black", "Arial Bold", sans-serif;
 }
 /**p (Sign up to....etcetc) - same font as h1 but smaller and a lighter grey color**/
 p {
   font-size: 1.1em; /**80% of html font size for site**/
   padding: 0.165em;
+  font-family: "Archivo Black", "Arial Black", "Arial Bold", sans-serif;
 }
 /**establish similarity btwn label elements w font family**/
 label {
