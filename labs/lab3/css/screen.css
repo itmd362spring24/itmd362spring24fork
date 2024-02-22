@@ -221,7 +221,7 @@ label {
 }
 label[for="age-verification"] {
   padding: 0;
-  margin: 0;
+  margin: 0.066em;
   font-size: 0.693em;
   line-height: 0.7em;
 }
@@ -229,6 +229,7 @@ label[for="age-verification"] {
 #age-verification {
   float: left;
   line-height: 0.7em;
+  margin: 0.066em;
 }
 body {
   width: 100%;
