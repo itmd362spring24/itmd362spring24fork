@@ -234,6 +234,15 @@ label[for="age-verification"] {
   line-height: 0.7em;
   margin: 0.066em;
 }
+
+#submit {
+  position: relative;
+  margin-top: 0.132em;
+  margin-bottom: 0.132em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 body {
   width: 100%;
   height: 100%;
