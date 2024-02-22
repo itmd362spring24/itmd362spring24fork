@@ -209,6 +209,8 @@ h1 {
   padding: 0.33em;
   line-height: 115%;
   font-family: "Archivo Black", "Arial Black", "Arial Bold", sans-serif;
+  background-clip: padding-box;
+  background-color: #707070;
 }
 /**p (Sign up to....etcetc) - same font as h1 but smaller and a lighter grey color**/
 p {
