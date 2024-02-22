@@ -221,6 +221,7 @@ label {
   font-size: 0.825em; /**60% of html font size for site**/
   padding: 0.132em;
   font-family: "Work Sans", "Verdana", sans-serif;
+  font-weight: 500;
 }
 label[for="age-verification"] {
   margin: 0.066em;
