@@ -227,6 +227,10 @@ label[for="age-verification"] {
 
 #age-verification {
   float: left;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 body {
   width: 100%;
