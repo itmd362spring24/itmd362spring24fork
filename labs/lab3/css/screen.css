@@ -223,14 +223,12 @@ label[for="age-verification"] {
   padding: 0;
   margin: 0;
   font-size: 0.693em;
+  line-height: 0.7em;
 }
 
 #age-verification {
   float: left;
-  display: inline-block;
-  vertical-align: middle;
-  margin-top: auto;
-  margin-bottom: auto;
+  line-height: 0.7em;
 }
 body {
   width: 100%;
