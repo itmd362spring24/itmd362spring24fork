@@ -220,7 +220,6 @@ label {
   padding: 0.132em;
 }
 label[for="age-verification"] {
-  padding: 0;
   margin: 0.066em;
   font-size: 0.693em;
   line-height: 0.7em;
