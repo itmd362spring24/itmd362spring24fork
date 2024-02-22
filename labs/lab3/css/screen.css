@@ -220,6 +220,9 @@ label {
   padding: 0.132em;
 }
 /**put check box next to label to establish proximity**/
+#age-verification {
+  clear: left;
+}
 body {
   width: 100%;
   height: 100%;
