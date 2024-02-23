@@ -241,8 +241,8 @@ label[for="age-verification"] {
   position: relative;
   margin-top: 0.132em;
   margin-bottom: 0.132em;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 
 body {
