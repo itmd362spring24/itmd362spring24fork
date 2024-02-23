@@ -238,7 +238,7 @@ label[for="age-verification"] {
 }
 
 #submit {
-  position: relative;
+  position: absolute;
   margin-top: 0.132em;
   margin-bottom: 0.132em;
   margin-left: 50%;
@@ -248,6 +248,7 @@ label[for="age-verification"] {
   width: 18em;
   text-transform: uppercase;
   text-transform: full-width;
+  border-radius: 0.625em;
 }
 
 body {
