@@ -238,6 +238,7 @@ label[for="age-verification"] {
 }
 
 #submit {
+  font-family: "Archivo Black", "Arial Black", "Arial Bold", sans-serif;
   position: absolute;
   float: center;
   margin-top: 0.132em;
@@ -246,8 +247,11 @@ label[for="age-verification"] {
   height: 1em;
   width: 18em;
   text-transform: uppercase;
-  text-transform: full-width;
   border-radius: 0.625em;
+}
+
+label[for="email"] {
+  border-top-style: dashed;
 }
 
 body {
