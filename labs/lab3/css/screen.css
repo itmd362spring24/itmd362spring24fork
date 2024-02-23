@@ -241,10 +241,10 @@ label[for="age-verification"] {
   font-family: "Archivo Black", "Arial Black", "Arial Bold", sans-serif;
   position: absolute;
   float: center;
-  margin-top: 0.132em;
+  margin-top: 0.264em;
   margin-bottom: 0.132em;
   border-style: none;
-  height: 1em;
+  height: 1.75em;
   width: 18em;
   text-transform: uppercase;
   border-radius: 0.625em;
