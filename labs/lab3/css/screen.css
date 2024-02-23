@@ -240,7 +240,6 @@ label[for="age-verification"] {
 #submit {
   font-family: "Archivo Black", "Arial Black", "Arial Bold", sans-serif;
   position: absolute;
-  float: center;
   margin-top: 0.264em;
   margin-bottom: 0.132em;
   border-style: none;
