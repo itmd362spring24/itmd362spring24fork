@@ -239,10 +239,9 @@ label[for="age-verification"] {
 
 #submit {
   position: absolute;
+  float: center;
   margin-top: 0.132em;
   margin-bottom: 0.132em;
-  margin-left: 50%;
-  margin-right: 50%;
   border-style: none;
   height: 1em;
   width: 18em;
