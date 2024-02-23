@@ -243,6 +243,11 @@ label[for="age-verification"] {
   margin-bottom: 0.132em;
   margin-left: 50%;
   margin-right: 50%;
+  border-style: none;
+  height: 1em;
+  width: 2em;
+  text-transform: uppercase;
+  text-transform: full-width;
 }
 
 body {
