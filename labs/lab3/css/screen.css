@@ -252,6 +252,7 @@ label[for="age-verification"] {
 
 ol {
   border-top: 0.05em dashed black;
+  border-bottom: 0.05em dashed black;
 }
 
 body {
