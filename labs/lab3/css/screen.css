@@ -250,8 +250,8 @@ label[for="age-verification"] {
   border-radius: 0.625em;
 }
 
-label[for="email"] {
-  border-top-style: dashed;
+ol {
+  border-top: 0.05em dashed black;
 }
 
 body {
